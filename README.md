@@ -2,7 +2,9 @@
 A repo for some code I used in the course
 
 I am not allowed to publish the full agent code since the base code was provided from the
-teacher and he does not want any specific solutions up freely available on github. 
+teacher and he does not want any specific solutions up freely available on github. It 
+might not be possible to run this code standalone since it is a part of the full school 
+project.
 
 However this package are created by myself in order to get the train a face detector. The
 algorithm is based on the eigenface method (PCA to reduce the dimensionality of the 
@@ -15,4 +17,6 @@ components of the images.
 It worked fairly good and the method recognized and could distinguish between 7-10 unique 
 faces and simultaneously were able to recognize if a new person that was not added to the 
 known faces did show up.
+
+
 
